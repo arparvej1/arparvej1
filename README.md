@@ -4,7 +4,9 @@ I'm a passionate MERN stack developer with a year of experience in web developme
 
 ## About Me
 
-👨‍💻 As a passionate MERN stack developer with over a year of hands-on experience, I thrive on turning ideas into responsive and user-friendly web applications. My journey began with mastering the fundamentals of HTML, CSS, and JavaScript, which laid a strong foundation for my transition to building dynamic front-end interfaces with React.js and optimizing backend functionalities with Node.js and MongoDB. I enjoy collaborating with teams to tackle challenges and continuously learning new technologies to stay ahead in the rapidly evolving tech landscape.
+<p style="text-align: justify;">
+As a passionate MERN stack developer with over a year of hands-on experience, I thrive on turning ideas into responsive and user-friendly web applications. My journey began with mastering the fundamentals of HTML, CSS, and JavaScript, which laid a strong foundation for my transition to building dynamic front-end interfaces with React.js and optimizing backend functionalities with Node.js and MongoDB. I enjoy collaborating with teams to tackle challenges and continuously learning new technologies to stay ahead in the rapidly evolving tech landscape.
+</p>
 
 
 ## My Skills
@@ -49,6 +51,12 @@ I'm a passionate MERN stack developer with a year of experience in web developme
       </a>
       <br>Mongodb
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./src/images/firebase.png" width="52" height="48" alt="firebase" />
+      </a>
+      <br>Firebase
+    </td>
   </tr>
 </table>
 
@@ -68,4 +76,4 @@ I'm a passionate MERN stack developer with a year of experience in web developme
 
 ## Fun Fact
 
-Here's a fun fact about me!
+💻 Fun fact: I'm so passionate about programming that I often find myself debugging code in my dreams!
