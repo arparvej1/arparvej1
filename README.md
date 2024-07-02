@@ -1,12 +1,13 @@
 # Hi there! 👋 I'm Abdur Razzak Parvej
 
-I'm passionate about [Your Interests/Hobbies]. Welcome to my GitHub profile!
+I'm a passionate MERN stack developer with a year of experience in web development. Welcome to my GitHub profile!
 
 ## About Me
 
-I am a [Your Profession/Role] based in [Your Location]. I love to [Your Hobbies/Interests].
+👨‍💻 As a passionate MERN stack developer with over a year of hands-on experience, I thrive on turning ideas into responsive and user-friendly web applications. My journey began with mastering the fundamentals of HTML, CSS, and JavaScript, which laid a strong foundation for my transition to building dynamic front-end interfaces with React.js and optimizing backend functionalities with Node.js and MongoDB. I enjoy collaborating with teams to tackle challenges and continuously learning new technologies to stay ahead in the rapidly evolving tech landscape.
 
-## Skills
+
+## My Skills
 
 > Tools, languages, and other things that I like to work with.
 
