@@ -2,6 +2,7 @@
 
 I'm a passionate MERN stack developer with a year of experience in web development. Welcome to my GitHub profile!
 
+
 ## About Me
 
 <p style="text-align: justify;">
@@ -70,9 +71,12 @@ As a passionate MERN stack developer with over a year of hands-on experience, I 
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](LinkedIn URL)
-- Twitter: [Your Twitter Profile](Twitter URL)
-- Website: [Your Website](Your Website URL)
+[![Twitter Badge](https://img.shields.io/badge/-@ParvejOnline-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ParvejOnline)](https://twitter.com/ParvejOnline)
+[![Linkedin Badge](https://img.shields.io/badge/-abdurrazzakparvej-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurrazzakparvej/)](https://www.linkedin.com/in/abdurrazzakparvej/)
+[![Facebook Badge](https://img.shields.io/badge/-arparvej-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/arparvej/)](https://www.facebook.com/arparvej/)
+[![GitHub followers](https://img.shields.io/github/followers/arparvej1?label=Follow&style=social)](https://github.com/arparvej1/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-abdurrazzakparvej@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdurrazzakparvej@gmail.com)](mailto:abdurrazzakparvej@gmail.com)
+---
 
 ## Fun Fact
 
