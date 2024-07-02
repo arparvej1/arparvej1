@@ -1,7 +1,6 @@
-# Hi there! 👋 I'm Abdur Razzak Parvej
-
-I'm a passionate MERN stack developer with a year of experience in web development. Welcome to my GitHub profile!
-
+<a href="https://www.facebook.com/arparvej">
+  <img src="./src/images/github-banner-arparvej1.gif" />
+</a>
 
 ## About Me
 
