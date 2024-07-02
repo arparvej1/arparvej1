@@ -1,6 +1,7 @@
-<a href="https://www.facebook.com/arparvej">
-  <img src="./src/images/github-banner-arparvej1.gif" />
-</a>
+<video  autoplay loop muted>
+  <source src="./src/images/github-banner-arparvej1.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## About Me
 
